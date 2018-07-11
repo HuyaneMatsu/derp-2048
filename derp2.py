@@ -600,4 +600,4 @@ if CORE.line_length!=LINE_LENGTH:
     CORE=core.new()
 
 if __name__=='__main__':
-    game=game().run()
+    game().run()
